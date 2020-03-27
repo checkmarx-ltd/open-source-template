@@ -49,7 +49,7 @@ The following templates will be used within Checkmarx TS github repositories cat
 
 ## Pull Requests
 
-PRs to our source is always welcome and can be a quick way to get your fix or improvement slated for the next release. In general, PRs should:
+PRs to our source are always welcome and can be a quick way to get your fix or improvement slated for the next release. In general, PRs should:
 
 - Only fix/add the functionality in question **or** address code style issues, not both.
 - Ensure all necessary details are provided and adhered to
@@ -58,7 +58,7 @@ PRs to our source is always welcome and can be a quick way to get your fix or im
 - Include documentation in the repo or Provide additional comments in Markdown comments that should be pulled/reflected in GitHub Wiki for the given project. 
 - Be accompanied by a complete Pull Request template (loaded automatically when a PR is created).
 
-For changes that address core functionality or would require breaking changes (e.g. a major release), it's best to open an Issue to discuss your proposal first. 
+For changes that address core functionality or would require breaking changes (e.g. a major release), please open an Issue to discuss your proposal first. 
 
 In general, we follow the _fork-and-pull_ Git workflow
 
