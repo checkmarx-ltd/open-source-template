@@ -1,6 +1,6 @@
 # Checkmarx Open Source Template
 
-This repo contains sample files to be used in Checkmarx open source software repositories. These files are guidelines that can be used in an Checkmarx open source projects to ensure that the project is described in a standard way.
+This repo contains sample files to be used in Checkmarx open source software repositories. These files are guidelines that can be used in Checkmarx open source projects to ensure that the project is described in a standard way.
 
 ## Table of Contents
 - [Checkmarx Open Source Template](#checkmarx-open-source-template)
@@ -42,7 +42,7 @@ Use the [Wiki template](Wiki-template.md) as a basis for content to be maintaine
 We appreciate feedback and contribution to this template! Before you get started, please see the following:
 
 - [Checkmarx contribution guidelines](CONTRIBUTING.md)
-- [Checkmarx of conduct](CODE-OF-CONDUCT.md)
+- [Checkmarx Code of Conduct](CODE-OF-CONDUCT.md)
 
 ## License
 

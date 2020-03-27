@@ -19,7 +19,7 @@ Reading and following these guidelines will help us make the contribution proces
 
 ## Code of Conduct
 
-By participating and contributing any Checkmarx projects, you agree to uphold our [Code of Conduct](https://github.com/checkmarx-ts/open-source-template/blob/master/CODE-OF-CONDUCT.md).
+By participating and contributing to any Checkmarx projects, you agree to uphold our [Code of Conduct](https://github.com/checkmarx-ts/open-source-template/blob/master/CODE-OF-CONDUCT.md).
 
 ## Getting Started
 
@@ -27,7 +27,7 @@ By participating and contributing any Checkmarx projects, you agree to uphold ou
 
 If you have suggestions for how this project could be improved, or want to report a bug, open an issue. We appreciate all contributions. If you have questions, we'd love to hear them.
 
-We also appreciate PRs.  If you're thinking of submitting any PR, please open up an issue first to spark a discussion around it.
+We also appreciate PRs.  If you're thinking of any PR, pleae open an issue first to spark a discussion around it.
 
 Contributions are made to this repo via Issues and Pull Requests (PRs).  A few general guidelines that cover both:
 
@@ -39,7 +39,7 @@ Contributions are made to this repo via Issues and Pull Requests (PRs).  A few g
 
 Issues should be used to report problems with the solution / source code, request a new feature, or to discuss potential changes before a PR is created. When you create a new Issue, a template will be loaded that will guide you through collecting and providing the information we need to investigate.
 
-If you find an Issue that addresses the problem you're having, please add your own reproduction information to the existing issue rather than creating a new one. Adding a [reaction](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/) can also help be indicating to our maintainers that a particular problem is affecting more than just the reporter.
+If you find an Issue that addresses the problem you're having, please add your own reproduction information to the existing issue rather than creating a new one. Adding a [reaction](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/) can also help by indicating to our maintainers that a particular problem is affecting more than just the reporter.
 
 ### Templates
 
@@ -49,7 +49,7 @@ The following templates will be used within Checkmarx TS github repositories cat
 
 ## Pull Requests
 
-PRs to our source is always welcome and can be a quick way to get your fix or improvement slated for the next release. In general, PRs should:
+PRs to our source are always welcome and can be a quick way to get your fix or improvement slated for the next release. In general, PRs should:
 
 - Only fix/add the functionality in question **or** address code style issues, not both.
 - Ensure all necessary details are provided and adhered to
@@ -58,7 +58,7 @@ PRs to our source is always welcome and can be a quick way to get your fix or im
 - Include documentation in the repo or Provide additional comments in Markdown comments that should be pulled/reflected in GitHub Wiki for the given project. 
 - Be accompanied by a complete Pull Request template (loaded automatically when a PR is created).
 
-For changes that address core functionality or would require breaking changes (e.g. a major release), it's best to open an Issue to discuss your proposal first. 
+For changes that address core functionality or would require breaking changes (e.g. a major release), please open an Issue to discuss your proposal first. 
 
 In general, we follow the _fork-and-pull_ Git workflow
 
