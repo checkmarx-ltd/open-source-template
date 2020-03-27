@@ -10,6 +10,7 @@ This repo contains sample files to be used in Checkmarx open source software rep
     - [Modify templates in `.github`](#modify-templates-in-github)
     - [Update LICENSE](#update-license)
     - [Modify .gitignore](#modify-gitignore)
+  - [Wiki](#wiki)
   - [Contribution](#contribution)
   - [License](#license)
 
@@ -31,6 +32,10 @@ The [License](LICENSE) should be updated according to the specific project, but 
 ### Modify .gitignore
 
 This file contains files that will be excluded from git. Modify as needed based on the technology being used.
+
+## Wiki
+
+Use the [Wiki template](Wiki-template.md) as a basis for content to be maintained on the Repository Wiki
 
 ## Contribution
 
