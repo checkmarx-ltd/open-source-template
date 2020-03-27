@@ -3,12 +3,15 @@
 This repo contains sample files to be used in Checkmarx open source software repositories. These files are guidelines that can be used in an Checkmarx open source projects to ensure that the project is described in a standard way.
 
 ## Table of Contents
-
-- [Contribution](#contribution)
-- [Templates]
--- [PR Template] (#Pull Request Template)
-- [Issue Templates]
-- [License](#license)
+- [Checkmarx Open Source Template](#checkmarx-open-source-template)
+  - [Table of Contents](#table-of-contents)
+  - [Getting Started](#getting-started)
+    - [Copy README-template.md to README.md](#copy-readme-templatemd-to-readmemd)
+    - [Modify templates in `.github`](#modify-templates-in-github)
+    - [Update LICENSE](#update-license)
+    - [Modify .gitignore](#modify-gitignore)
+  - [Contribution](#contribution)
+  - [License](#license)
 
 ## Getting Started
 
