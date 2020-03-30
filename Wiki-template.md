@@ -11,7 +11,7 @@
 - Installation
   - Dependencies
   - Configuraiton
-- Exectuion
+- Execution
   - Common Scenarios and Examples
 - Monitoring
 - Support
