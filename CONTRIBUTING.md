@@ -19,11 +19,9 @@ Reading and following these guidelines will help us make the contribution proces
 
 ## Code of Conduct
 
-By participating and contributing to any Checkmarx projects, you agree to uphold our [Code of Conduct](https://github.com/checkmarx-ts/open-source-template/blob/master/CODE-OF-CONDUCT.md).
+By participating and contributing to any Checkmarx projects, you agree to uphold our [Code of Conduct](https://github.com/checkmarx-ltd/open-source-template/blob/master/CODE-OF-CONDUCT.md).
 
 ## Getting Started
-
-*The following information applies to repositories within Checkmarx TS github categorized as **Solution** or **SDK*** (topic)
 
 If you have suggestions for how this project could be improved, or want to report a bug, open an issue. We appreciate all contributions. If you have questions, we'd love to hear them.
 
@@ -43,7 +41,7 @@ If you find an Issue that addresses the problem you're having, please add your o
 
 ### Templates
 
-The following templates will be used within Checkmarx TS github repositories categorized as **Solution** or **SDK** (topic)
+The following templates will be used within Checkmarx github repositories
 - [Enhancement/Feature Request Template](.github/ISSUE_TEMPLATE/feature_request.md)
 - [Bug Report Template](.github/ISSUE_TEMPLATE/bug_report.md)
 
@@ -68,10 +66,9 @@ In general, we follow the _fork-and-pull_ Git workflow
 4. Commit changes to the branch
 5. Push changes to your fork
 6. Open a PR in our repository and follow the PR template so that we can efficiently review and asses the changes.  *Ensure an associated Issue has been accepted by the Checkmarx team.*
-7. Assign **Checkmarx TS FieldDev** team as Reviewers of the PR
 
 ### Templates
-The following template will be used within Checkmarx TS github repositories categorized as **Solution** or **SDK** (topic)
+The following template will be used within Checkmarx github repositories
 
 [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md)
 
