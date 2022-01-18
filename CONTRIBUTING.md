@@ -25,7 +25,7 @@ By participating and contributing to any Checkmarx projects, you agree to uphold
 
 If you have suggestions for how this project could be improved, or want to report a bug, open an issue. We appreciate all contributions. If you have questions, we'd love to hear them.
 
-We also appreciate PRs.  If you're thinking of submitting any PR, pleae open an issue first to spark a discussion around it.
+We also appreciate PRs.  If you're thinking of submitting any PR, please open an issue first to spark a discussion around it.
 
 Contributions are made to this repo via Issues and Pull Requests (PRs).  A few general guidelines that cover both:
 
